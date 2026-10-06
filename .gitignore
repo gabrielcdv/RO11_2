@@ -21,4 +21,7 @@ Thumbs.db
 .idea/
 
 # Jupyter
-.ipynb_checkpoints/*.joblib
+.ipynb_checkpoints/
+
+# Modèle
+*.joblib
