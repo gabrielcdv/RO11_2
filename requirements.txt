@@ -1,0 +1,8 @@
+numpy
+scikit-image
+scikit-learn
+matplotlib
+kagglehub
+joblib
+ipykernel
+gradio
