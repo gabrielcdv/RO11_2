@@ -6,3 +6,12 @@ kagglehub
 joblib
 ipykernel
 gradio
+streamlit>=1.50
+numpy
+pandas
+pillow
+joblib
+scikit-learn
+scikit-image
+torch
+opencv-python<5
